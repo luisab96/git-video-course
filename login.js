@@ -1,3 +1,4 @@
 function login(){
-    console.log('bug');
+    console.log('Login user: ');
+    console.log('Loading: ');
 }

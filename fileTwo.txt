@@ -1,1 +1,1 @@
-Amend demo 2
+Amend demo 2 unstaged

@@ -1,1 +1,1 @@
-Ammending commit demo 3
+Ammending commit demo 1.1 unstaged

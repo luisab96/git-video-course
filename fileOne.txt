@@ -1,1 +1,1 @@
-Ammending commit demo 1.1 unstaged
+completing task after git revert

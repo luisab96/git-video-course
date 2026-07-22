@@ -1,1 +1,1 @@
-Amend demo 2 unstaged
+1st commit after git revert

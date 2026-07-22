@@ -1,1 +1,1 @@
-Amend demo 2 unstaged
+Git revert demo 1 file two

@@ -1,2 +1,1 @@
-Main branch file one content
-Merge conflicts demo
+Rebase conflicts because of main changes 
